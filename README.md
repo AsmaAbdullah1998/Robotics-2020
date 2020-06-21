@@ -4,20 +4,25 @@ As a part of Summer Training 2020.
 
 ## Table of contents
 * [DC Motor](#dc-motor)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Servo Motor](#servo-motor)
+* [Stepper Motor](#stepper-motor)
 
 ## DC Motor
-This project is simple Lorem ipsum dolor generator.
+contains: 
+2 DC Motor example by using Arduino
+Soldering file for solder the wire
 	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+## Servo Motor
+Contains:
+2 Servo Motor example by using Arduino
 	
-## Setup
-To run this project, install it locally using npm:
+## Stepper Motor
+Stepper Motor example by using Proteus
+this folder contains:
+zip file for Library of Arduino in Proteus
+Stepper-code
+Stepper pic
+file for Protues
 
 ```
 $ cd ../lorem
