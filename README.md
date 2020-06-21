@@ -3,11 +3,11 @@ I'm going to share with all my work in Robotics path with smart methods https://
 As a part of Summer Training 2020. 
 
 ## Table of contents
-* [General info](#general-info)
+* [DC Motor](#dc-motor)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
+## DC Motor
 This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies
