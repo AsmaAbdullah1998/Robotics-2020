@@ -24,11 +24,7 @@ Stepper-code
 Stepper pic
 file for Protues
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+
 
 
 
